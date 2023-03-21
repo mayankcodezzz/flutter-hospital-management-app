@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "246580958357",
+    "project_id": "healmeup-cc0bf",
+    "storage_bucket": "healmeup-cc0bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246580958357:android:ffc5eb52f808954fdcf79c",
+        "android_client_info": {
+          "package_name": "com.example.healmeup.healmeup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246580958357-tgl8kgjhl70c1krcaekaefokdlj0cf2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAyB3msXpW7xZOuo_Y-YwCJGx47aF1M54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246580958357-tgl8kgjhl70c1krcaekaefokdlj0cf2b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
